@@ -1,1 +1,1 @@
-# room
+worker: node bot.js
